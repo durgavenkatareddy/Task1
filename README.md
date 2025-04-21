@@ -13,7 +13,7 @@ Key Cleaning Steps
 
 1.2Filled missing values in numerical columns using the column mean.
 
-1.3Filled missing values in categorical columns using constant values or the mode.
+1.3Filled missing values in categorical columns using the mode.
 
 ### 2. Standardizing Date Formats
 
