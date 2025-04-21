@@ -47,6 +47,8 @@ Key Cleaning Steps
 
 6.3 Ensured POSTALCODE is treated as a string to preserve leading zeros.
 
+### 7.Downloaded Cleaned Dataset
+
 ### Technologies Used:
 Python 3.13
 
