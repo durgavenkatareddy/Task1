@@ -9,11 +9,11 @@ Task1.ipynb: Contains all the data cleaning and preprocessing steps.
 Key Cleaning Steps
 ### 1. Handling Missing Values
 
-1.1Dropped rows where ORDERLINENUMBER was missing.
+1.1 Dropped rows where ORDERLINENUMBER was missing.
 
-1.2Filled missing values in numerical columns using the column mean.
+1.2 Filled missing values in numerical columns using the column mean.
 
-1.3Filled missing values in categorical columns using the mode.
+1.3 Filled missing values in categorical columns using the mode.
 
 ### 2. Standardizing Date Formats
 
